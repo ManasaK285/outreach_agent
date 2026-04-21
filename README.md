@@ -16,8 +16,8 @@ Each generation gives you three angles to choose from:
 
 This is a single HTML file. No build step, no dependencies, no server.
 
-1. Download `outreach-agent.html`
-2. Open it in any browser
+1. Download `index.html`
+2. Open it in any browser or, click on the outreach_agent in https://manasak285.github.io/outreach_agent/
 3. Grab a free API key at [console.anthropic.com](https://console.anthropic.com)
 4. Fill in the prospect details and generate
 
