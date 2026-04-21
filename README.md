@@ -23,16 +23,6 @@ This is a single HTML file. No build step, no dependencies, no server.
 
 That's it.
 
-## Deploying online
-
-If you want a shareable URL:
-
-**Netlify** — drag and drop the HTML file at [app.netlify.com/drop](https://app.netlify.com/drop). Done in 30 seconds.
-
-**Vercel** — put the file in a folder, run `vercel` from that directory, or connect the repo and it deploys on push.
-
-**GitHub Pages** — rename the file to `index.html`, push to a repo, enable Pages under Settings > Pages.
-
 ## Stack
 
 - Vanilla HTML, CSS, JavaScript
